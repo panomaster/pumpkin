@@ -11,3 +11,4 @@ A Project with MongoDB / Express / Vue.js / Node.js
 * vue.js = 2.0
 * mongodb = 4.2
 * mongodb-compass = v1.19.12-win32-x64
+* BootstrapVue = v2.1.0
