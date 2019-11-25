@@ -12,3 +12,16 @@ A Project with MongoDB / Express / Vue.js / Node.js
 * mongodb = 4.2
 * mongodb-compass = v1.19.12-win32-x64
 * BootstrapVue = v2.1.0
+
+
+
+# reference
+## 使用Vue+Node.js+MongoDB开发实验室管理系统
+https://blog.csdn.net/weixin_43943881/article/details/86834145
+
+## Essay
+essay: https://github.com/wmui/essay
+
+## davellanedam
+Back: https://github.com/davellanedam/node-express-mongodb-jwt-rest-api-skeleton
+Front: https://github.com/davellanedam/vue-skeleton-mvp
