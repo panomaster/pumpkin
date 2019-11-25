@@ -15,9 +15,10 @@ A Project with MongoDB / Express / Vue.js / Node.js
 
 
 
-# reference
+# REFERENCE
 ## 使用Vue+Node.js+MongoDB开发实验室管理系统
 https://blog.csdn.net/weixin_43943881/article/details/86834145
+https://gitee.com/zdHua/lab/
 
 ## Essay
 essay: https://github.com/wmui/essay
