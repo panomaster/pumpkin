@@ -33,8 +33,8 @@ https://gitee.com/zdHua/lab/
 essay: https://github.com/wmui/essay
 
 ### davellanedam
-Back: https://github.com/davellanedam/node-express-mongodb-jwt-rest-api-skeleton 
-Front: https://github.com/davellanedam/vue-skeleton-mvp
+* Back: https://github.com/davellanedam/node-express-mongodb-jwt-rest-api-skeleton 
+* Front: https://github.com/davellanedam/vue-skeleton-mvp
 
 ### 一个基于Vue.js+Mongodb+Node.js的博客内容管理系统
 https://juejin.im/post/5a8c120f6fb9a0635c0483a7
