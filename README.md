@@ -16,8 +16,8 @@ A Project with MongoDB / Express / Vue.js / Node.js
 * BootstrapVue = v2.1.0
 
 ### NPM PACKAGE CANDIDATES
-#### VUE2 EDITOR
-* https://www.npmjs.com/package/vue2-editor
+* #### VUE2 EDITOR
+** https://www.npmjs.com/package/vue2-editor
 
 
 
