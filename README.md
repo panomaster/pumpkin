@@ -17,9 +17,9 @@ A Project with MongoDB / Express / Vue.js / Node.js
 
 ### NPM PACKAGE/COMPONENT CANDIDATES
 #### VUE2 EDITOR
-* https://www.npmjs.com/package/vue2-editor
-* https://github.com/davidroyer/vue2editor-images
-* https://www.vue2editor.com/guide.html#modular-version
+* NPM ADDRESS: https://www.npmjs.com/package/vue2-editor
+* Image Handling:  https://github.com/davidroyer/vue2editor-images
+* Dev Doc/Guide: https://www.vue2editor.com/guide.html#modular-version
 
 
 
