@@ -21,7 +21,8 @@ A Project with MongoDB / Express / Vue.js / Node.js
 * Image Handling:  https://github.com/davidroyer/vue2editor-images
 * Dev Doc/Guide: https://www.vue2editor.com/guide.html#modular-version
 
-
+#### Factor CLI
+* https://factor.dev/guide/quickstart
 
 ## REFERENCE
 ### 使用Vue+Node.js+MongoDB开发实验室管理系统
