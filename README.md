@@ -1,9 +1,11 @@
-# pumpkin
-## punmpkin dev
+# PUMPKIN CHAT BOARD
+## PUMPKIN CHAT BOARD
 
-clone adress: git clone https://github.com/heolife/pumpkin.git
+Clone adress: git clone https://github.com/heolife/pumpkin.git
 
 A Project with MongoDB / Express / Vue.js / Node.js
+
+### DEPENDENCIES
 
 * Node.js = v12.11.0
 * Express = v6.11.3
@@ -12,6 +14,10 @@ A Project with MongoDB / Express / Vue.js / Node.js
 * mongodb = 4.2
 * mongodb-compass = v1.19.12-win32-x64
 * BootstrapVue = v2.1.0
+
+### NPM PACKAGE CANDIDATES
+#### VUE2 EDITOR
+* https://www.npmjs.com/package/vue2-editor
 
 
 
