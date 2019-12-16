@@ -51,9 +51,12 @@ https://github.com/bradtraversy/devconnector_2.0
 
 # JKHwi Add
 
-Sever:NestJs+MongoDB+Webpack 
+Sever:NestJs + MongoDB + Webpack 
 
 NestJs:https://github.com/nestjs/nest 
 
 教程:https://cloud.tencent.com/developer/doc/1281
 
+Cliet: 
+* test : AngularJs
+* formal : Angular OR VueJs
