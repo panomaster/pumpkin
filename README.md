@@ -46,17 +46,26 @@ https://github.com/EasyTuan/nuxt-elm
 ### MERN FULL STACK BACKBONE(REACT)
 https://github.com/bradtraversy/devconnector_2.0
 
-
+<br>
 * * *
+* * *
+<br>
 
-# JKHwi Add
+## JKHwi
 
-Sever:NestJs + MongoDB + Webpack 
+The Project requires THREE Repositories 
+
+### pumpkin-server :  
+
+NestJs + MongoDB + Webpack + redis(?)
 
 NestJs:https://github.com/nestjs/nest 
 
 教程:https://cloud.tencent.com/developer/doc/1281
 
-Cliet: 
-* test : AngularJs
+### pumpkin-cliet: 
+* test : AngularJs OR Postman
 * formal : Angular OR VueJs
+
+### pumpkin-test(?):
+if test with AngularJs, wo need this repository
