@@ -57,15 +57,13 @@ The Project requires THREE Repositories
 
 ### pumpkin-server :  
 
-NestJs + MongoDB + Webpack + redis(?)
+NestJs + MongoDB + redis(?)
 
 NestJs:https://github.com/nestjs/nest 
 
 教程:https://cloud.tencent.com/developer/doc/1281
 
 ### pumpkin-cliet: 
-* test : AngularJs OR Postman
-* formal : Angular OR VueJs
 
-### pumpkin-test(?):
-if test with AngularJs, wo need this repository
+* Mobile Client: [ng-zorro-mobile](https://ng.mobile.ant.design/#/docs/introduce/zh) 
+* Web Client:[ng-zorro](https://ng.ant.design/docs/introduce/zh)?
